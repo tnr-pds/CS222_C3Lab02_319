@@ -36,18 +36,20 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\AssetsBackup\BulletBehaviour.cs" />
-     <Compile Include="Assets\AssetsBackup\WeaponBehaviour.cs" />
-     <Compile Include="Assets\AssetsBackup\References.cs" />
      <Compile Include="Assets\AssetsBackup\CanvasBehaviour.cs" />
-     <Compile Include="Assets\AssetsBackup\HealthSystem.cs" />
-     <Compile Include="Assets\AssetsBackup\HealthBar.cs" />
-     <Compile Include="Assets\AssetsBackup\EnemyBehaviour.cs" />
-     <Compile Include="Assets\AssetsBackup\EnemySpawner.cs" />
-     <Compile Include="Assets\AssetsBackup\ExplosionBehaviour.cs" />
-     <Compile Include="Assets\AssetsBackup\PlayerBehaviour.cs" />
+     <Compile Include="Assets\AssetsBackup\References.cs" />
      <Compile Include="Assets\MyPlayerBehaviour.cs" />
+     <Compile Include="Assets\AssetsBackup\HealthBar.cs" />
+     <Compile Include="Assets\AssetsBackup\ExplosionBehaviour.cs" />
+     <Compile Include="Assets\AssetsBackup\HealthSystem.cs" />
+     <Compile Include="Assets\AssetsBackup\WeaponBehaviour.cs" />
+     <Compile Include="Assets\AssetsBackup\BulletBehaviour.cs" />
+     <Compile Include="Assets\AssetsBackup\PlayerBehaviour.cs" />
+     <Compile Include="Assets\AssetsBackup\EnemySpawner.cs" />
      <Compile Include="Assets\MyHealthSystem.cs" />
+     <Compile Include="Assets\myEnemySpawner.cs" />
+     <Compile Include="Assets\AssetsBackup\EnemyBehaviour.cs" />
+     <None Include="Assets\test.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
